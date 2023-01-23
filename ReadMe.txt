@@ -23,5 +23,3 @@ LastUpdatedDate = 3 7 2022
 MaxPlayers = 25
 
 Last Updated = 24/1/23
-
-(Doesn't Search Private Games)
