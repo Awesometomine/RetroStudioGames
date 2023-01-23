@@ -1,0 +1,27 @@
+
+██████╗░███████╗████████╗██████╗░░█████╗░░██████╗███████╗░█████╗░██████╗░░█████╗░██╗░░██╗
+██╔══██╗██╔════╝╚══██╔══╝██╔══██╗██╔══██╗██╔════╝██╔════╝██╔══██╗██╔══██╗██╔══██╗██║░░██║
+██████╔╝█████╗░░░░░██║░░░██████╔╝██║░░██║╚█████╗░█████╗░░███████║██████╔╝██║░░╚═╝███████║
+██╔══██╗██╔══╝░░░░░██║░░░██╔══██╗██║░░██║░╚═══██╗██╔══╝░░██╔══██║██╔══██╗██║░░██╗██╔══██║
+██║░░██║███████╗░░░██║░░░██║░░██║╚█████╔╝██████╔╝███████╗██║░░██║██║░░██║╚█████╔╝██║░░██║
+╚═╝░░╚═╝╚══════╝░░░╚═╝░░░╚═╝░░╚═╝░╚════╝░╚═════╝░╚══════╝╚═╝░░╚═╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝
+
+Simply Search (Cntrl + F) through the Games.txt (Use the Raw Text) for the game name you are searching for.
+The Game info is below the GameName
+
+e.g. = 
+
+EpicCOOlRobloxGame = 
+PlaceID = 107744698_1
+CreatorId = 107744698
+VisitCount = 69
+Desc = Epic COol Roblox Game For Epic People
+Likes = 420
+Dislikes = -2
+LastUpdatedDate = 24 1 2023
+LastUpdatedDate = 3 7 2022
+MaxPlayers = 25
+
+Last Updated = 24/1/23
+
+(Doesn't Search Private Games)
